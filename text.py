@@ -6,3 +6,4 @@ import streamlit as st
 
 import statsmodel.api as sm
 
+import sklearm as sl
