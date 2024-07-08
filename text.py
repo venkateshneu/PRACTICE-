@@ -3,3 +3,4 @@ import numpy as np
 import sidebar
 import seaborn as sns 
 import streamlit as st
+import scipy as sc
